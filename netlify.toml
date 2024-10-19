@@ -3,61 +3,61 @@
   command = "npm run build"
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/como-comprar-por-alibaba/"
+  from = "/como-comprar-por-alibaba/"
   to = "https://blog.andreioctaviandanciulescu.com/como-comprar-por-alibaba"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/como-hacer-tu-tfg-con-inteligencia-artificial/"
+  from = "/como-hacer-tu-tfg-con-inteligencia-artificial/"
   to = "https://blog.andreioctaviandanciulescu.com/como-hacer-tu-tfg-con-inteligencia-artificial"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/desafios-triunfos-starbucks-howard-schultz/"
-  to = "https://www.andreioctaviandanciulescu.com/"
+  from = "/desafios-triunfos-starbucks-howard-schultz/"
+  to = "/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/aiprm-para-chatgpt/"
+  from = "/aiprm-para-chatgpt/"
   to = "https://blog.andreioctaviandanciulescu.com/aiprm-para-chatgpt"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/consejos-brian-tracy-gestion-tiempo/"
-  to = "https://www.andreioctaviandanciulescu.com/"
+  from = "/consejos-brian-tracy-gestion-tiempo/"
+  to = "/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/analisis-arte-amar-fromm/"
-  to = "https://www.andreioctaviandanciulescu.com/"
+  from = "/analisis-arte-amar-fromm/"
+  to = "/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/algoritmos-para-la-vida-cotidiana/"
-  to = "https://www.andreioctaviandanciulescu.com/"
+  from = "/algoritmos-para-la-vida-cotidiana/"
+  to = "/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/que-es-una-llc-y-como-crearla/"
+  from = "/que-es-una-llc-y-como-crearla/"
   to = "https://blog.andreioctaviandanciulescu.com/como-crear-una-llc"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/lider-exitoso-john-maxwell/"
-  to = "https://www.andreioctaviandanciulescu.com/"
+  from = "/lider-exitoso-john-maxwell/"
+  to = "/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://www.andreioctaviandanciulescu.com/caso-brunswick/"
-  to = "https://www.andreioctaviandanciulescu.com/"
+  from = "/caso-brunswick/"
+  to = "/"
   status = 301
   force = true
