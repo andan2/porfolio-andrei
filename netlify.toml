@@ -1,0 +1,63 @@
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/como-comprar-por-alibaba/"
+  to = "https://blog.andreioctaviandanciulescu.com/como-comprar-por-alibaba"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/como-hacer-tu-tfg-con-inteligencia-artificial/"
+  to = "https://blog.andreioctaviandanciulescu.com/como-hacer-tu-tfg-con-inteligencia-artificial"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/desafios-triunfos-starbucks-howard-schultz/"
+  to = "https://www.andreioctaviandanciulescu.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/aiprm-para-chatgpt/"
+  to = "https://blog.andreioctaviandanciulescu.com/aiprm-para-chatgpt"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/consejos-brian-tracy-gestion-tiempo/"
+  to = "https://www.andreioctaviandanciulescu.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/analisis-arte-amar-fromm/"
+  to = "https://www.andreioctaviandanciulescu.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/algoritmos-para-la-vida-cotidiana/"
+  to = "https://www.andreioctaviandanciulescu.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/que-es-una-llc-y-como-crearla/"
+  to = "https://blog.andreioctaviandanciulescu.com/como-crear-una-llc"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/lider-exitoso-john-maxwell/"
+  to = "https://www.andreioctaviandanciulescu.com/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.andreioctaviandanciulescu.com/caso-brunswick/"
+  to = "https://www.andreioctaviandanciulescu.com/"
+  status = 301
+  force = true
