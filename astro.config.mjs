@@ -20,7 +20,16 @@ export default defineConfig({
       changefreq: 'weekly',
       priority: 0.7,
       lastmod: new Date(),
+      filter: (page) => !page.includes('/components/'),
     }),
   ],
-  outDir: './dist', // Asegúrate de que esto coincida con tu directorio de salida
+  vite: {
+    build: {
+      assetsInlineLimit: 0,
+    },
+    optimizeDeps: {
+      exclude: ['@fontsource-variable/onest'],
+    },
+  },
+  outDir: './dist',
 });
